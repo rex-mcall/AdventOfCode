@@ -1,0 +1,5 @@
+pt1:
+Find which 2 numbers add to 2020, then multiply them together for the final answer.
+
+pt2:
+Slightly different; find which 3 numbers add to 2020 and add them together.

@@ -1,4 +1,4 @@
-file = open('list.txt', 'r')
+file = open('Day One\Part Two\list.txt', 'r')
 lines = file.readlines()
 
 for x in lines:
